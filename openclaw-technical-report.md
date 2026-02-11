@@ -1,13 +1,5 @@
 # OpenClaw AI Agent Framework: Comprehensive Security Analysis
 
-**Author:** Surada Chooruang  
-**Institution:** Texas A&M University  
-**Department:** Computer Science & Applied Mathematics  
-**Research Lab:** SUCCESS Lab - AI Security Research  
-**Date:** February 2026
-
----
-
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
@@ -28,7 +20,7 @@
 
 This report presents a comprehensive security analysis of OpenClaw (formerly Clawdbot/Moltbot), an open-source AI agent framework launched in November 2025 that enables autonomous task execution on local machines. Through literature review analyzing 20+ security reports, systematic CVE analysis, hands-on testing in isolated VM environments, and community observation across Reddit, GitHub, and YouTube, this research identifies critical vulnerabilities across multiple attack surfaces.
 
-### Critical Findings
+### Findings
 
 **Major Vulnerabilities:**
 - **CVE-2026-25253 (CVSS 8.8 Critical):** One-click remote code execution via malicious link enabling complete system compromise
